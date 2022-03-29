@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommymcm&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommymcm&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tommy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommymcm&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
