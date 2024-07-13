@@ -3,4 +3,4 @@ I am a PhD candidate at Northwestern University, advised by [Simone Campanoni](h
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommymcm&theme=swift&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tommy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommymcm&theme=swift&exclude_repo=tommymcm.github.io&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommymcm&theme=swift&exclude_repo=tommymcm.github.io,my-emacs-setup,llvm-mode&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
