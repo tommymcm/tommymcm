@@ -3,6 +3,6 @@ I am a PhD candidate at Northwestern University, advised by [Simone Campanoni](h
 
 <div align="center">
   <a href="https://github.com/rafasumi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?hide_rank=true&username=tommymcm&show_icons=true&theme=swift&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommymcm&layout=compact&langs_count=7&theme=swift&exclude_repo=tommymcm.github.io,my-emacs-setup,llvm-mode&hide=html,css,javascript"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?hide_rank=true&username=tommymcm&show_icons=true&theme=highcontrast&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommymcm&layout=compact&langs_count=7&theme=highcontrast&exclude_repo=tommymcm.github.io,my-emacs-setup,llvm-mode&hide=html,css,javascript"/>
 </div>
