@@ -7,6 +7,6 @@ You can find more information about myself and my research on my [webite](https:
 
 <div align="center">
   <a href="https://github.com/tommymcm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?hide_rank=true&username=tommymcm&show_icons=true&theme=highcontrast&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommymcm&layout=compact&langs_count=7&theme=highcontrast&exclude_repo=tommymcm.github.io,my-emacs-setup,llvm-mode&hide=html,css,javascript"/>
+  <img media="(prefers-color-scheme: dark)" height="180em" src="https://github-readme-stats.vercel.app/api?hide_rank=true&username=tommymcm&show_icons=true&theme=highcontrast&include_all_commits=true"/>
+  <img media="(prefers-color-scheme: dark)" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommymcm&layout=compact&langs_count=7&theme=highcontrast&exclude_repo=tommymcm.github.io,my-emacs-setup,llvm-mode&hide=html,css,javascript"/>
 </div>
