@@ -3,7 +3,7 @@ I am a PhD candidate at Northwestern University, advised by [Simone Campanoni](h
 
 I study compilers, specifically intermediate representation design, looking to expand the optimization space of the compiler to leverage modern programming language designs for static analysis.
 
-You can find more information about myself and my research on my [webite](https://mcmichen.cc).
+You can find more information about myself and my research on my [website](https://mcmichen.cc).
 
 <div align="center">
   <a href="https://github.com/tommymcm">
